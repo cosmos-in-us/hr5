@@ -1,1 +1,5 @@
-
+title: Horizon Run 5
+#logo: /path/image.png
+#description: text below image
+# show_downloads: true
+theme: jekyll-theme-minima
